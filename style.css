@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('futurobot.png'); /* Background image for the page */
+    background-image: url('./futurobot.png'); /* Background image for the page */
     background-size: cover; /* Ensures the image covers the entire page */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    background-image: url('ylJBJKE.png'); /* Background image for the container */
+    background-image: url('./ylJBJKE.png'); /* Background image for the container */
     background-size: cover; /* Ensures the image covers the entire container */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
